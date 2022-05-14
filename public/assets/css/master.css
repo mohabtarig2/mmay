@@ -1,0 +1,57 @@
+
+
+/* start landin page */
+.landing-page{
+    min-height: 100vh;
+    /* background-image: url('../img/bbb.jpg'); */
+    background-size: cover;
+}
+
+.landing-page .overlay{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.616);
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    z-index: 1;
+}
+.header-area{
+    position: relative;
+    padding: 15px;
+    z-index: 2;
+    display: flex;
+    color: #fff;
+
+}
+.header-area .logo-nav{
+    padding: 15px ;
+    width: 300px;
+    font-size:15px ;
+    font-weight: bold;
+}
+
+.header-area .linkss{
+   list-style: none;
+   width: 100%;
+   text-align: right;
+   padding-left: 0;
+   padding-right:20px;
+}
+.header-area .linkss li{
+    display:inline-block;
+    font-size: 15px;
+    margin-right: 10px;
+ }
+
+ .landing-page .intro {
+     position: absolute;
+    left:50%;
+    top:50%;
+    z-index: 2;
+    transform: translate(-50% , -50%);
+    color: #fff;
+    text-align: center;
+ }
+/*
+/* end landing page */

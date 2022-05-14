@@ -1,0 +1,7 @@
+  <a  :href="request.offer.offersfiles.threeDPath" target="_blank" class="text-dark" v-if="request.offer.offersfiles.threeDPath">
+              <i class="fa fa-file-pdf fa-2x text-danger"  ></i>
+          </a>
+           <a  :href="request.offer.offersfiles.threeDPathExcel" download="download"
+            class="text-dark" v-if="request.offer.offersfiles.threeDPathExcel">
+              <i class="fa fa-file-excel fa-2x text-success"  ></i>
+          </a>

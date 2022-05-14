@@ -1,0 +1,61 @@
+0: {id: 27, tender_id: 262, offer_id: 170, type: "consulting", created_at: "2021-10-09T12:17:19.000000Z",…}
+added_at: "31 minutes ago"
+com_confirm: 0
+com_id: 1
+company: {id: 1, name: "mohab tarig", email: "mohab.tarig91@gmail.com",…}
+avatar: "assets/userAvatar/amb_avatar1630928790_DFE.jpg"
+created_at: "2021-01-17T21:07:41.000000Z"
+email: "mohab.tarig91@gmail.com"
+email_verified_at: "2021-08-03 12:16:29"
+id: 1
+mobile: 915211387
+name: "mohab tarig"
+role_id: 1
+updated_at: "2021-09-06T11:46:30.000000Z"
+created_at: "2021-10-09T12:17:19.000000Z"
+id: 27
+offer_id: 170
+reason_com: null
+reason_user: null
+result: null
+tconsulte: {id: 262, title: "ابدأ في بناء مشروعكf", villa_type: "classic", floors: 1, bedroom: 6, room_mastar: 5,…}
+bathroom: 5
+bedroom: 6
+created_at: "2021-10-09T16:17:19.000000Z"
+dining_room: 5
+emirats: 5
+floors: 1
+id: 262
+kitchens: 522
+living_room: 5
+majlis: 5
+max: 522
+min: 20
+note: "من خلال AMB ، يمكنك تقديم عطاء لنموذج التصميم الذي تريده ، وإدخال تفاصيل المشروع والميزانية المتوقعة ، لمراجعة مشروعك ونشره على AMP ، ستقدم أفضل الشركات عروض مختلفة لاختيار العرض المناسب لك والبدء في تنفيذ مشروعك. مشروع"
+position: "inside"
+reason_reject: null
+room_mastar: 5
+stage: 1
+status: 1
+title: "ابدأ في بناء مشروعكf"
+updated_at: "2021-10-09T12:17:19.000000Z"
+user_id: 44
+villa_type: "classic"
+tender_id: 262
+toffers: {id: 170, com_id: 1, tender_id: 262,…}
+Supervisor: 52
+TotalAreaBuild: 2000
+budget: 2000
+com_id: 1
+comment: "من خلال AMB ، يمكنك تقديم عطاء لنموذج التصميم الذي تريده ، وإدخال تفاصيل المشروع والميزانية المتوقعة ، لمراجعة مشروعك ونشره على AMP ، ستقدم أفضل الشركات عروض مختلفة لاختيار العرض المناسب لك والبدء في تنفيذ مشروعك. مشروع"
+created_at: "2021-10-09T11:12:45.000000Z"
+design: 52
+id: 170
+item: "من خلال AMB ، يمكنك تقديم عطاء لنموذج التصميم الذي تريده ، وإدخال تفاصيل المشروع والميزانية المتوقعة ، لمراجعة مشروعك ونشره على AMP ، ستقدم أفضل الشركات عروض مختلفة لاختيار العرض المناسب لك والبدء في تنفيذ مشروعك. مشروع"
+tender_id: 262
+updated_at: "2021-10-09T11:12:45.000000Z"
+type: "consulting"
+updated_at: "2021-10-09T12:17:19.000000Z"
+user: {id: 44, name: "mohammed ehssan", email: "mohab@amb.com", email_verified_at: "2021-08-11 12:16:50",…}
+user_confirm: 0
+user_id: 44
